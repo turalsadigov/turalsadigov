@@ -1,0 +1,27 @@
+---
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+-   👋 Hi, I'm Tural Sadigov, Visiting Assistant Professor of Mathematics and Statistics at Hamilton College.
+
+-   👀 I'm interested in Statatistics, Machine Learning and Data Science.
+
+-   🌱 I'm currently teaching various topics in Statistics, Data Science and Machine Learning, and doing research in the combination of Applied Mathematics and Machine Learning.
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
