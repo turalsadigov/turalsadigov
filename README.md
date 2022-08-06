@@ -16,4 +16,4 @@ can break highly complex topics into bits and make them intuitive for
 the learners.
 
 ![From one of the Stochastic Processes seminars at SUNY
-Poly](/Users/tsadigov/Desktop/turalsadigov/teaching.png)
+Poly](teaching.png)

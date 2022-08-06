@@ -15,5 +15,5 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Teaching is my passion, and I believe that better teacher is one that can break highly complex topics into bits and make them intuitive for the learners.
 
-![From one of the Stochastic Processes seminars at SUNY Poly](/Users/tsadigov/Desktop/turalsadigov/teaching.png)
+![From one of the Stochastic Processes seminars at SUNY Poly](teaching.png)
 
