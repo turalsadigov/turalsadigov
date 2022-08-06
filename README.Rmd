@@ -1,4 +1,5 @@
 ---
+title: Bio
 output: github_document
 ---
 
@@ -12,16 +13,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 -   🌱 I'm currently teaching various topics in Statistics, Data Science and Machine Learning, and doing research in the combination of Applied Mathematics and Machine Learning.
 
-```{r cars}
-summary(cars)
-```
+Teaching is my passion, and I believe that better teacher is one that can break highly complex topics into bits and make them intuitive for the learners.
 
-## Including Plots
+![Caption for the picture.](/Users/tsadigov/Desktop/turalsadigov/teaching.jpeg)
 
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
