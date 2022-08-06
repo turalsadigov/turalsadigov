@@ -1,5 +1,4 @@
 ---
-title: Bio
 output: github_document
 ---
 

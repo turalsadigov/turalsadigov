@@ -1,5 +1,3 @@
-Bio
-================
 
 -   👋 Hi, I’m Tural Sadigov, Visiting Assistant Professor of
     Mathematics and Statistics at Hamilton College.
