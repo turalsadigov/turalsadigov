@@ -9,9 +9,5 @@
     and Machine Learning, and doing research in the combination of
     Applied Mathematics and Machine Learning.
 
-Teaching is my passion, and I believe that better teacher is one that
-can break highly complex topics into bits and make them intuitive for
-the learners.
 
-![From one of the Stochastic Processes seminars at SUNY
-Poly](teaching.png)
+![Calculus](teaching_116.JPG)
