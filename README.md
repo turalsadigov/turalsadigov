@@ -6,4 +6,4 @@
 -   🌱 I’m currently working within Cell Engineering R&D team and colloborating with Computational Checmistry subgroup. 
 
 
-![Calculus](teaching_116.JPG)
+![Sepion Technologies](cropped-logo.png)
