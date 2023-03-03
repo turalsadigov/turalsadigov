@@ -3,7 +3,7 @@
 
 -   👀 I’m interested in Machine Learning, Statistics and Data Science in general.
 
--   🌱 I’m currently working within Cell Engineering R&D team and colloborating with Computational Checmistry subgroup. 
+-   🌱 I’m currently working within Cell Engineering R&D team and colloborating with Computational Chemistry subgroup. 
 
 
 ![Sepion Technologies](cropped-logo.png)
