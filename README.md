@@ -3,13 +3,14 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=turalsadigov&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=turalsadigov&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=turalsadigov&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=darcula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=turalsadigov&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=turalsadigov&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://i.gifer.com/74YE.gif"  />
+<p align="left">🔭 I’m currently working on automating machine learning pipelines for predictive models on various properties of electrolyte formulations in Lithium batteries<br><br>👨‍💻 Some of my sample projects are available at https://github.com/turalsadigov<br><br>💬 Ask me about R, Python, Statistics and Data Science<br><br>📫 How to reach me https://turalsadigov.github.io/<br><br>📄 Know about my experiences https://github.com/turalsadigov/resume/blob/main/tural_sadigov_resume_single_page.pdf<br><br>⚡ Fun fact I really enjoy watching and playing soccer</p>
 
 ###
 
@@ -49,8 +50,10 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/turalsadigov/turalsadigov/output/snake.svg" alt="Snake animation" />
+
+###
+
+<img align="right" height="150" src="https://i.gifer.com/74YE.gif"  />
 
 ###
