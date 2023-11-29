@@ -52,7 +52,3 @@
 <img src="https://raw.githubusercontent.com/turalsadigov/turalsadigov/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<img align="right" height="150" src="https://i.gifer.com/74YE.gif"  />
-
-###
