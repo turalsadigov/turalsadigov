@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on automating machine learning pipelines for predictive models on various properties of electrolyte formulations in Lithium batteries<br><br>👨‍💻 Some of my sample projects are available at https://github.com/turalsadigov<br><br>💬 Ask me about Machine Learning, Python, R, Statistics and Data Science<br><br>📫 How to reach me https://turalsadigov.github.io/<br><br>📄 Know about my experiences [https://github.com/turalsadigov/resume/blob/main/resume_august_single_page_2024.pdf](Resume)<br><br>⚡ Fun fact I really enjoy watching and playing soccer</p>
+<p align="left">🔭 I’m currently working on automating machine learning pipelines for predictive models on various properties of electrolyte formulations in Lithium batteries<br><br>👨‍💻 Some of my sample projects are available at https://github.com/turalsadigov<br><br>💬 Ask me about Machine Learning, Python, R, Statistics and Data Science<br><br>📫 How to reach me https://turalsadigov.github.io/<br><br>📄 Know about my experiences [Resume](https://github.com/turalsadigov/resume/blob/main/resume_august_single_page_2024.pdf)<br><br>⚡ Fun fact I really enjoy watching and playing soccer</p>
 
 ###
 
