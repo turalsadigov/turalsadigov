@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is  Tural Sadigov and I'm a staff data scientist at Sepion Technologies.</h2>
+<h2 align="left">Hi 👋! My name is  Tural Sadigov and I'm a data scientist.</h2>
 
 ###
 
