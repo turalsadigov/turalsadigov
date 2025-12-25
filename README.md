@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on maritime data and issues come with it. <br><br>👨‍💻 Ask me about Kubernetes, DevOps, Machine Learning, Python, R, Statistics and Data Science<br><br>📫 How to reach me https://turalsadigov.github.io/<br><br>📄 Know about my experiences https://github.com/turalsadigov/resume/blob/main/resume_august_single_page_2024.pdf<br><br>⚡ Fun fact I really enjoy watching and playing soccer</p>
+<p align="left">🔭 I’m currently working on developing data lakehouse platform using K8S/Spark/Iceberg <br><br> 📫 How to reach me https://turalsadigov.github.io/<br><br>📄 Know about my experiences https://github.com/turalsadigov/resume/blob/main/resume_august_single_page_2024.pdf<br><br>⚡ Fun fact I really enjoy watching and occasionally playing soccer</p>
 
 ###
 
